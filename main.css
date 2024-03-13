@@ -105,3 +105,19 @@ section h2 {
 #economia .articles article a {
     background-color: #ff9f1a;
 }
+
+#tecnologia {
+    background-color: rgba(2, 59, 94, 0.3);
+}
+
+#tecnologia .articles article a {
+    background-color: rgba(11, 101, 156, 0.8);
+}
+
+#games {
+    background-color: rgba(68, 15, 43, 0.3);
+}
+
+#games .articles article a {
+    background-color: rgba(110, 19, 68, 0.8);
+}
